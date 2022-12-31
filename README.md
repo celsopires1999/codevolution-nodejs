@@ -1,3 +1,5 @@
-Próxima aula:
+# Node.js basics
 
-- Node.js Tutorial - 11 - Module Scope
+## Goal
+
+- Learning the basics of a tool is important to develop an application using the best resource available.
